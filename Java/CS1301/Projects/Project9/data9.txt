@@ -1,0 +1,32 @@
+CS1301
+Fares
+26
+VSU
+Fall
+2016
+Nicholas   20
+Justyn     15
+Bilal      60
+Jamel      75
+Brooks     82
+Matthew    62
+Jonathan   95
+Yalanda    87
+Raven      77
+Zachary    65
+Michael    81
+Charles    97
+Edward     88
+Zebedee    55
+Giovanni   73
+April      12
+Nicholas   100
+Joseph     84
+Giacomo    76
+Robert     83
+Patrick    71
+Johan      45
+Thomas     5
+Timothy    78
+Joseph     35
+William    70

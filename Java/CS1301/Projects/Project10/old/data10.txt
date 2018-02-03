@@ -1,0 +1,9 @@
+CS 1301 A
+Fares
+10 / 25/ 2016
+
+If you are new to programming in the Java language, have some experience with other languages, 
+and are familiar with things like displaying text or graphics or performing simple calculations, 
+this tutorial could be for you. It walks through how to use the Java® 2 Platform software 
+to create and run three common types of programs written for the Java platform?applications, 
+applets, and servlets.

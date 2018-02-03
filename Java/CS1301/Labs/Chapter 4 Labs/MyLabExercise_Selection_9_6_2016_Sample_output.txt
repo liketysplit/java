@@ -1,0 +1,63 @@
+	Sample output (MyLabExercise_Selection_9_6_2016)
+
+	1.	m1 object
+	Name:     	Unknown
+	Course:   	TBA
+	Date:     	Tue Sep 06 06:15:43 EDT 2016
+
+	2.	m2 object
+	Name:     	John Smith
+	Course:   	CS 1301
+	Date:     	Tue Sep 06 06:15:43 EDT 2016
+
+	max method to be implemented
+
+	3.	Largest of 3 and 7 is:	-1
+
+	min method to be implemented
+
+	4.	Smallest of 3 and 7 is:	-1
+
+	isEven method to be implemented
+
+	5.	Is 3 even?             	false
+
+	isEven method to be implemented
+
+	6.	Is 6 even?             	false
+
+	isLetter method to be implemented
+
+	7.	Is 'B' letter?         	false
+
+	isLetter method to be implemented
+
+	8.	Is 'a' letter?         	false
+
+	isLetter method to be implemented
+
+	9.	Is '3' letter?         	false
+
+	getMonthName method to be implemented
+
+	10.	Month 3 name is:       	TBI
+
+	getMonthName method to be implemented
+
+	11.	Month 12 name is:      	TBI
+
+	getMonthName method to be implemented
+
+	12.	Month 15 name is:      	TBI
+
+	getStatus method to be implemented
+
+	13.	Freshman Status is:    	-1
+
+	getStatus method to be implemented
+
+	14.	Senior Status is:      	-1
+
+	getStatus method to be implemented
+
+	15.	Not Yet Status is:     	-1

@@ -1,0 +1,55 @@
+	/* style definition */
+.label {
+/* style rules */
+	-fx-text-fill:black;
+}
+
+	/* style definition */
+.button {
+/* style rules */
+	-fx-text-fill:black;
+}
+
+	/* style definition */
+.radio-button {
+/* style rules */
+	-fx-text-fill:black;
+}
+
+	/* style definition */
+.combo-box {
+/* style rules */
+	-fx-text-fill:black;
+}
+
+	/* style definition */
+.check-box {
+/* style rules */
+	-fx-text-fill:black;
+}
+
+	/* style definition */
+.text-area {
+/* style rules */
+	-fx-text-fill:black;
+}
+	/* style definition */
+.text-field {
+/* style rules */
+	-fx-text-fill:black;
+}
+
+
+
+									/* fancy stuff */
+	/* style definition */
+.text-green {
+/* style rules */
+	-fx-text-fill:green ;
+}
+
+	/* style definition */
+.text-red {
+/* style rules */
+	-fx-text-fill:red;
+}
